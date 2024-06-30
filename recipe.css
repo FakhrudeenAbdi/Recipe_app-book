@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 20px;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+#search-bar {
+  margin-bottom: 20px;
+}
+
+#search-input {
+  width: 200px;
+  height: 30px;
+  padding: 5px;
+}
+
+#search-button {
+  height: 40px;
+  padding: 5px 15px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#search-button:hover {
+  background-color: #45a049;
+}
+
+#popularRecipes {
+  margin-bottom: 20px;
+}
+
+#popularRecipes h2 {
+  margin-bottom: 10px;
+}
